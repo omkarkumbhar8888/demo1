@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-21T11:29:11 IST" name="Default suite" finished-at="2022-04-21T11:29:12 IST" duration-ms="702">
+    <groups>
+    </groups>
+    <test started-at="2022-04-21T11:29:11 IST" name="Default test" finished-at="2022-04-21T11:29:12 IST" duration-ms="702">
+      <class name="testng1.Dptest">
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 15]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 16]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 17]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 19]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 19]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method signature="testdata1(java.lang.String,java.lang.String)[pri:0, instance:testng1.Dptest@6392827e]" started-at="2022-04-21T11:29:12 IST" name="testdata1" data-provider="insertdata" finished-at="2022-04-21T11:29:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+      </class> <!-- testng1.Dptest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
